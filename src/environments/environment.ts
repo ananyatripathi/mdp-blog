@@ -6,13 +6,14 @@ export const environment = {
   production: false,
   apiUrl: '',
   firebaseConfig : {
-    apiKey: "AIzaSyDysn47q8aR9VAuyaMLNk4VyqGnPXmLtEg",
-    authDomain: "upworkmedia-e4752.firebaseapp.com",
-    databaseURL: "https://upworkmedia-e4752-default-rtdb.firebaseio.com",
-    projectId: "upworkmedia-e4752",
-    storageBucket: "upworkmedia-e4752.appspot.com",
-    messagingSenderId: "196238148246",
-    appId: "1:196238148246:web:4da5c7648a48d3ee44f8b7"
+    apiKey: "AIzaSyBBLYPYdqtY0aWO_NAJzW3hax08VNgijj4",
+    databaseURL: "https://blog-book.firebaseio.com",
+    authDomain: "blog-book-66837.firebaseapp.com",
+    projectId: "blog-book-66837",
+    storageBucket: "blog-book-66837.appspot.com",
+    messagingSenderId: "483584713195",
+    appId: "1:483584713195:web:4bca5f20216404cce239ae",
+    measurementId: "G-BEEF7DW6SG"
 
     // our firebase's credentials
   }
